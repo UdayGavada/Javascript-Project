@@ -8,8 +8,8 @@ Crafted using fundamental technologies like HTML, CSS, TailwindCSS, SCSS, JavaSc
 
 
 ## Sneak Peek of Home Page 🙈 :
-![jsprothumb3](https://user-images.githubusercontent.com/64949957/124395721-3eac3880-dd23-11eb-99ca-b43f2c2e0d38.png)
-![image](image.png)
+![image](https://github.com/user-attachments/assets/83a93641-099a-4489-b7c5-6587bac84f96)
+
 
 <h2>📬 Contact</h2>
 
