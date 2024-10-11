@@ -4,7 +4,7 @@ The JavaScript Projects Site is a centralized platform housing significant proje
 
 Crafted using fundamental technologies like HTML, CSS, TailwindCSS, SCSS, JavaScript, and jQuery, it offers a seamless experience for project exploration and engagement.
 
-[Visit Now](https://github.com/UdayGavada.io/JavaScript-Projects) 🚀
+[Visit Now](https://udaygavada-javascript-projects.netlify.app/) 🚀
 
 
 ## Sneak Peek of Home Page 🙈 :
